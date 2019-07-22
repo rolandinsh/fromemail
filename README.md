@@ -1,2 +1,2 @@
-# fromemail
-WordPress from email
+# rolandinsh / from email
+Replace wordpress@ to info@ in WordPress emails
